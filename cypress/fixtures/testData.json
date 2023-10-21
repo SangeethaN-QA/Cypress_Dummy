@@ -1,0 +1,15 @@
+{
+    "url": "https://www.amazon.in/",
+    "productName": "iPhone 11", 
+    "ver_productName": "\"iPhone 11\"",
+
+    "txtEmailData" : "sarathisangee@gmail.com",
+    "txtPasswordData": "test@123",
+    "txtLoginErrorMsg":"To better protect your account, please re-enter your password and then enter the characters as they are shown in the image below.",
+
+    "txt_primeTitle": "Account & Login Issues"
+   
+
+
+    
+}

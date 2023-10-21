@@ -1,0 +1,23 @@
+{
+    
+        "txt_SearchBox": "#twotabsearchtextbox",
+        "btn_searchIcon": "#nav-search-submit-button",
+        "lbl_productName" : ".a-color-state",
+        "list_ProductNames" : "//div[@class='s-main-slot s-result-list s-search-results sg-row']/div[@data-cel-widget='search_result_1']/descendant::h2[1]//span",
+
+        "lnk_Orders": "#nav-orders",
+        "txt_Email" : "#ap_email",
+        "btn_Continue":"#continue",
+        "txt_Password" : "#ap_password",
+        "btn_SignIn" : "#signInSubmit",
+        "msg_SignInError" : "//h4[text()='Important Message!']",
+
+        "lnk_prime":"//div[@id='nav-main']//a[text()='Fashion']",
+        
+        "lnk_needHelp":"//div[@class='a-box-inner a-padding-extra-large']//span[contains(text(),'Need help?')]",
+        "lnk_otherIssues": "//a[contains(text(),'Other issues with Sign-In')]", 
+        "txt_issueTitle":"//h1[contains(text(),'Account & Login Issues')]"
+
+
+    
+}
